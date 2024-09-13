@@ -3,7 +3,8 @@ Install node - version 20+
 
 Install mysql locally - version 8.0.38
 
-Create a configuration file and save it like below:
+Create a configuration file and save it in project 
+root like below:
 
 ```javascript 
 const data = {
